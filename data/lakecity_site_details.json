@@ -1,0 +1,323 @@
+{
+  "sites": [
+    {
+      "id": "LC001",
+      "name": "Fred Meyer (Lake City)",
+      "address": "13000 Lake City Way NE, Seattle, WA 98125",
+      "coordinates": [-122.291963, 47.724082],
+      "usda_category": {
+        "code": "SM",
+        "name": "Supermarket",
+        "source": "USDA SNAP Retailer Store Type Definitions (2025)"
+      },
+      "has_pharmacy": true,
+      "status": "closed",
+      "is_potential_site": false,
+      "closed_date": "Oct 2025",
+      "notes": "Large supermarket with full service departments (butcher, bakery, pharmacy). Provides comprehensive fresh food access."
+    },
+    {
+      "id": "LC002",
+      "name": "QFC - North Seattle (NE 145th St)",
+      "address": "1531 NE 145th St, Seattle, WA 98155",
+      "coordinates": [-122.3105, 47.73335],
+      "usda_category": {
+        "code": "SM",
+        "name": "Supermarket",
+        "source": "USDA SNAP Retailer Store Type Definitions (2025)"
+      },
+      "has_pharmacy": true,
+      "status": "open",
+      "is_potential_site": false,
+      "closed_date": null,
+      "notes": "Full-line supermarket with in-store pharmacy"
+    },
+    {
+      "id": "LC003",
+      "name": "QFC - Northgate (Roosevelt Way NE)",
+      "address": "11100 Roosevelt Way NE, Seattle, WA 98125",
+      "coordinates": [-122.317275, 47.709396],
+      "usda_category": {
+        "code": "SM",
+        "name": "Supermarket",
+        "source": "USDA SNAP Retailer Store Type Definitions (2025)"
+      },
+      "has_pharmacy": true,
+      "status": "open",
+      "is_potential_site": false,
+      "closed_date": null,
+      "notes": "Full-line supermarket with in-store pharmacy"
+    },
+    {
+      "id": "LC004",
+      "name": "Safeway (15th Ave NE)",
+      "address": "12318 15th Ave NE, Seattle, WA 98125",
+      "coordinates": [-122.313, 47.719],
+      "usda_category": {
+        "code": "SM",
+        "name": "Supermarket",
+        "source": "USDA SNAP Retailer Store Type Definitions (2025)"
+      },
+      "has_pharmacy": true,
+      "status": "open",
+      "is_potential_site": false,
+      "closed_date": null,
+      "notes": "Full-line supermarket with in-store pharmacy (approx coords)"
+    },
+    {
+      "id": "LC005",
+      "name": "Walgreens (Northgate Way @ Roosevelt)",
+      "address": "859 NE Northgate Way, Seattle, WA 98125",
+      "coordinates": [-122.319, 47.709],
+      "usda_category": {
+        "code": "PH",
+        "name": "Pharmacy",
+        "source": "USDA SNAP Retailer Store Type Definitions (2025)"
+      },
+      "has_pharmacy": true,
+      "status": "open",
+      "is_potential_site": false,
+      "closed_date": null,
+      "notes": "Pharmacy with prescription services (approx coords)"
+    },
+    {
+      "id": "LC006",
+      "name": "Sprouts Farmers Market (Aurora)",
+      "address": "13010 Aurora Ave N, Seattle, WA 98133",
+      "coordinates": [-122.33980785594574, 47.724551251128496],
+      "usda_category": {
+        "code": "LG",
+        "name": "Large Grocery",
+        "source": "USDA SNAP Retailer Store Type Definitions (2025)"
+      },
+      "has_pharmacy": false,
+      "status": "open",
+      "is_potential_site": false,
+      "closed_date": null,
+      "notes": "Natural foods supermarket with fresh produce and organic options"
+    },
+    {
+      "id": "LC007",
+      "name": "Saar's Oak Tree Super Saver Foods",
+      "address": "10008 Aurora Ave N, Seattle, WA 98133",
+      "coordinates": [-122.33655095197682, 47.703455112319304],
+      "usda_category": {
+        "code": "LG",
+        "name": "Large Grocery",
+        "source": "USDA SNAP Retailer Store Type Definitions (2025)"
+      },
+      "has_pharmacy": false,
+      "status": "open",
+      "is_potential_site": false,
+      "closed_date": null,
+      "notes": "Full-line supermarket with competitive pricing"
+    },
+    {
+      "id": "LC008",
+      "name": "Grocery Outlet",
+      "address": "3020 NE 127th St, Seattle, WA 98125",
+      "coordinates": [-122.29498, 47.72178],
+      "usda_category": {
+        "code": "SG",
+        "name": "Small Grocery",
+        "source": "USDA SNAP Retailer Store Type Definitions (2025)"
+      },
+      "has_pharmacy": false,
+      "status": "open",
+      "is_potential_site": false,
+      "closed_date": null,
+      "notes": "Discount grocery store with limited fresh food selection and often soon-to-expire items"
+    },
+    {
+      "id": "LC009",
+      "name": "City Grocery",
+      "address": "13737 Lake City Way NE, Seattle, WA 98125",
+      "coordinates": [-122.29003071843383, 47.73007627022229],
+      "usda_category": {
+        "code": "SG",
+        "name": "Small Grocery",
+        "source": "USDA SNAP Retailer Store Type Definitions (2025)"
+      },
+      "has_pharmacy": false,
+      "status": "open",
+      "is_potential_site": false,
+      "closed_date": null,
+      "notes": "Small independent grocer; limited produce and fresh items"
+    },
+    {
+      "id": "LC010",
+      "name": "Goodies Mediterranean Market",
+      "address": "13721 Lake City Way NE, Seattle, WA 98125",
+      "coordinates": [-122.29453682939305, 47.730119569138076],
+      "usda_category": {
+        "code": "SG",
+        "name": "Small Grocery",
+        "source": "USDA SNAP Retailer Store Type Definitions (2025)"
+      },
+      "has_pharmacy": false,
+      "status": "open",
+      "is_potential_site": false,
+      "closed_date": null,
+      "notes": "Specialty Mediterranean grocery store"
+    },
+    {
+      "id": "LC011",
+      "name": "Kilimanjaro Market",
+      "address": "12714 Lake City Way NE, Seattle, WA 98125",
+      "coordinates": [-122.29354977657114, 47.721949886293984],
+      "usda_category": {
+        "code": "SG",
+        "name": "Small Grocery",
+        "source": "USDA SNAP Retailer Store Type Definitions (2025)"
+      },
+      "has_pharmacy": false,
+      "status": "open",
+      "is_potential_site": false,
+      "closed_date": null,
+      "notes": "Small independent grocer; limited produce and fresh items"
+    },
+    {
+      "id": "LC012",
+      "name": "Nazreth Market",
+      "address": "12322 Lake City Way NE, Seattle, WA 98125",
+      "coordinates": [-122.29372143794382, 47.718716301042605],
+      "usda_category": {
+        "code": "SG",
+        "name": "Small Grocery",
+        "source": "USDA SNAP Retailer Store Type Definitions (2025)"
+      },
+      "has_pharmacy": false,
+      "status": "open",
+      "is_potential_site": false,
+      "closed_date": null,
+      "notes": "Small independent grocer; limited produce and fresh items"
+    },
+    {
+      "id": "LC013",
+      "name": "Lake City Library",
+      "address": "12501 28th Ave NE, Seattle, WA 98125",
+      "coordinates": [-122.297, 47.7208],
+      "usda_category": {
+        "code": "N/A",
+        "name": "Potential Site",
+        "source": "Community Planning"
+      },
+      "has_pharmacy": false,
+      "status": "potential",
+      "is_potential_site": true,
+      "closed_date": null,
+      "notes": "Public library with community meeting spaces"
+    },
+    {
+      "id": "LC014",
+      "name": "Neighborcare Health Center",
+      "address": "12721 30th Ave NE, Seattle, WA 98125",
+      "coordinates": [-122.295, 47.72],
+      "usda_category": {
+        "code": "N/A",
+        "name": "Potential Site",
+        "source": "Community Planning"
+      },
+      "has_pharmacy": false,
+      "status": "potential",
+      "is_potential_site": true,
+      "closed_date": null,
+      "notes": "Community health center for integrated pharmacy services"
+    },
+    {
+      "id": "LC015",
+      "name": "North Seattle Public Health Dental",
+      "address": "12359 Lake City Way NE, Seattle, WA 98125",
+      "coordinates": [-122.29482301465367, 47.71912903122116],
+      "usda_category": {
+        "code": "N/A",
+        "name": "Potential Site",
+        "source": "Community Planning"
+      },
+      "has_pharmacy": true,
+      "status": "potential",
+      "is_potential_site": true,
+      "closed_date": null,
+      "notes": "Public health dental clinic with pharmacy potential"
+    },
+    {
+      "id": "LC016",
+      "name": "Former Bartell Drugs Building",
+      "address": "3018 NE 125th St, Seattle, WA 98125",
+      "coordinates": [-122.298, 47.722],
+      "usda_category": {
+        "code": "N/A",
+        "name": "Potential Site",
+        "source": "Community Planning"
+      },
+      "has_pharmacy": true,
+      "status": "potential",
+      "is_potential_site": true,
+      "closed_date": null,
+      "notes": "Former pharmacy building, ideal for pharmacy services"
+    },
+    {
+      "id": "LC017",
+      "name": "Former Bank Site",
+      "address": "2825 NE 125th St, Seattle, WA 98125",
+      "coordinates": [-122.29482301465367, 47.71912903122116],
+      "usda_category": {
+        "code": "N/A",
+        "name": "Potential Site",
+        "source": "Community Planning"
+      },
+      "has_pharmacy": true,
+      "status": "potential",
+      "is_potential_site": true,
+      "closed_date": null,
+      "notes": "Former bank building suitable for pharmacy conversion"
+    },
+    {
+      "id": "LC018",
+      "name": "Bartell Drugs (Lake City)",
+      "address": "3018 NE 125th St, Seattle, WA 98125",
+      "coordinates": [-122.2956250619695, 47.71968596554774],
+      "usda_category": {
+        "code": "PH",
+        "name": "Pharmacy",
+        "source": "USDA SNAP Retailer Store Type Definitions (2025)"
+      },
+      "has_pharmacy": true,
+      "status": "closed",
+      "is_potential_site": false,
+      "closed_date": "2023",
+      "notes": "Closed pharmacy location"
+    },
+    {
+      "id": "LC019",
+      "name": "Walgreens (Lake City Way)",
+      "address": "14352 Lake City Way NE, Seattle, WA 98125",
+      "coordinates": [-122.29194719450025, 47.73363925901361],
+      "usda_category": {
+        "code": "PH",
+        "name": "Pharmacy",
+        "source": "USDA SNAP Retailer Store Type Definitions (2025)"
+      },
+      "has_pharmacy": true,
+      "status": "closed",
+      "is_potential_site": false,
+      "closed_date": "2024",
+      "notes": "Closed pharmacy location"
+    },
+    {
+      "id": "LC020",
+      "name": "Target (Northgate)",
+      "address": "302 NE Northgate Way, Seattle, WA 98125",
+      "coordinates": [-122.32497614494788, 47.70890478849319],
+      "usda_category": {
+        "code": "LG",
+        "name": "Large Grocery",
+        "source": "USDA SNAP Retailer Store Type Definitions (2025)"
+      },
+      "has_pharmacy": true,
+      "status": "open",
+      "is_potential_site": false,
+      "notes": "Large grocery store with pharmacy services"
+    }
+  ]
+}
