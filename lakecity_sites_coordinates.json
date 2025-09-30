@@ -1,0 +1,265 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LC001",
+        "name": "Fred Meyer (Lake City)",
+        "address": "13000 Lake City Way NE, Seattle, WA 98125",
+        "coordinates": [-122.291963, 47.724082]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.291963, 47.724082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LC002",
+        "name": "QFC - North Seattle (NE 145th St)",
+        "address": "1531 NE 145th St, Seattle, WA 98155",
+        "coordinates": [-122.3105, 47.73335]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.3105, 47.73335]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LC003",
+        "name": "QFC - Northgate (Roosevelt Way NE)",
+        "address": "11100 Roosevelt Way NE, Seattle, WA 98125",
+        "coordinates": [-122.317275, 47.709396]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.317275, 47.709396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LC004",
+        "name": "Safeway (15th Ave NE)",
+        "address": "12318 15th Ave NE, Seattle, WA 98125",
+        "coordinates": [-122.313, 47.719]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.313, 47.719]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LC005",
+        "name": "Walgreens (Northgate Way @ Roosevelt)",
+        "address": "859 NE Northgate Way, Seattle, WA 98125",
+        "coordinates": [-122.319, 47.709]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.319, 47.709]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LC006",
+        "name": "Sprouts Farmers Market (Aurora)",
+        "address": "13010 Aurora Ave N, Seattle, WA 98133",
+        "coordinates": [-122.33980785594574, 47.724551251128496]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.33980785594574, 47.724551251128496]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LC007",
+        "name": "Saar's Oak Tree Super Saver Foods",
+        "address": "10008 Aurora Ave N, Seattle, WA 98133",
+        "coordinates": [-122.33655095197682, 47.703455112319304]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.33655095197682, 47.703455112319304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LC008",
+        "name": "Grocery Outlet",
+        "address": "3020 NE 127th St, Seattle, WA 98125",
+        "coordinates": [-122.29498, 47.72178]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.29498, 47.72178]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LC009",
+        "name": "City Grocery",
+        "address": "13737 Lake City Way NE, Seattle, WA 98125",
+        "coordinates": [-122.29003071843383, 47.73007627022229]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.29003071843383, 47.73007627022229]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LC010",
+        "name": "Goodies Mediterranean Market",
+        "address": "13721 Lake City Way NE, Seattle, WA 98125",
+        "coordinates": [-122.29453682939305, 47.730119569138076]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.29453682939305, 47.730119569138076]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LC011",
+        "name": "Kilimanjaro Market",
+        "address": "12714 Lake City Way NE, Seattle, WA 98125",
+        "coordinates": [-122.29354977657114, 47.721949886293984]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.29354977657114, 47.721949886293984]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LC012",
+        "name": "Nazreth Market",
+        "address": "12322 Lake City Way NE, Seattle, WA 98125",
+        "coordinates": [-122.29372143794382, 47.718716301042605]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.29372143794382, 47.718716301042605]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LC013",
+        "name": "Lake City Library",
+        "address": "12501 28th Ave NE, Seattle, WA 98125",
+        "coordinates": [-122.297, 47.7208]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.297, 47.7208]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LC014",
+        "name": "Neighborcare Health Center",
+        "address": "12721 30th Ave NE, Seattle, WA 98125",
+        "coordinates": [-122.295, 47.72]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.295, 47.72]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LC015",
+        "name": "North Seattle Public Health Dental",
+        "address": "12359 Lake City Way NE, Seattle, WA 98125",
+        "coordinates": [-122.29482301465367, 47.71912903122116]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.29482301465367, 47.71912903122116]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LC016",
+        "name": "Former Bartell Drugs Building",
+        "address": "3018 NE 125th St, Seattle, WA 98125",
+        "coordinates": [-122.298, 47.722]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.298, 47.722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LC017",
+        "name": "Former Bank Site",
+        "address": "2825 NE 125th St, Seattle, WA 98125",
+        "coordinates": [-122.29482301465367, 47.71912903122116]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.29482301465367, 47.71912903122116]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LC018",
+        "name": "Bartell Drugs (Lake City)",
+        "address": "3018 NE 125th St, Seattle, WA 98125",
+        "coordinates": [-122.2956250619695, 47.71968596554774]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.2956250619695, 47.71968596554774]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LC019",
+        "name": "Walgreens (Lake City Way)",
+        "address": "14352 Lake City Way NE, Seattle, WA 98125",
+        "coordinates": [-122.29194719450025, 47.73363925901361]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.29194719450025, 47.73363925901361]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LC020",
+        "name": "Target (Northgate)",
+        "address": "302 NE Northgate Way, Seattle, WA 98125",
+        "coordinates": [-122.32497614494788, 47.70890478849319]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.32497614494788, 47.70890478849319]
+      }
+    }
+  ]
+}
