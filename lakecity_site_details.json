@@ -82,9 +82,25 @@
     },
     {
       "id": "LC006",
+      "name": "Lake City Farmers Market",
+      "address": "NE 125th St & 28th Ave NE, Seattle, WA 98125",
+      "coordinates": [-122.317, 47.720],
+      "usda_category": {
+        "code": "FM",
+        "name": "Farmers Market",
+        "source": "USDA SNAP Retailer Store Type Definitions (2025)"
+      },
+      "has_pharmacy": false,
+      "status": "seasonal",
+      "is_potential_site": false,
+      "closed_date": null,
+      "notes": "Seasonal farmers market operating Thursdays 3-7 PM, June-October. Features local produce, crafts, and community vendors."
+    },
+    {
+      "id": "LC007",
       "name": "Sprouts Farmers Market (Aurora)",
       "address": "13010 Aurora Ave N, Seattle, WA 98133",
-      "coordinates": [-122.33980785594574, 47.724551251128496],
+      "coordinates": [-122.34333425906627, 47.72349623431825],
       "usda_category": {
         "code": "LG",
         "name": "Large Grocery",
@@ -97,10 +113,10 @@
       "notes": "Natural foods supermarket with fresh produce and organic options"
     },
     {
-      "id": "LC007",
+      "id": "LC021",
       "name": "Saar's Oak Tree Super Saver Foods",
-      "address": "10008 Aurora Ave N, Seattle, WA 98133",
-      "coordinates": [-122.33655095197682, 47.703455112319304],
+      "address": "10616 16th Ave NE, Seattle, WA 98125",
+      "coordinates": [-122.317, 47.720],
       "usda_category": {
         "code": "LG",
         "name": "Large Grocery",
@@ -126,7 +142,7 @@
       "status": "open",
       "is_potential_site": false,
       "closed_date": null,
-      "notes": "Discount grocery store with limited fresh food selection and often soon-to-expire items"
+      "notes": "Discount grocery store with limited fresh food selection and often soon-to-expire items. Grocery Outlet's business model places it in the Small Grocery (SG) category. Despite its physical size, its closeout sourcing and variable fresh food selection mean it doesn't function as a full Large Grocery (LG) anchor store."
     },
     {
       "id": "LC009",
