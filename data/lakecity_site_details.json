@@ -2,7 +2,7 @@
   "sites": [
     {
       "id": "LC001",
-      "name": "Fred Meyer (Lake City)",
+      "name": "Fred Meyer (Supermarket - Full Service Pharmacies)",
       "address": "13000 Lake City Way NE, Seattle, WA 98125",
       "coordinates": [-122.291963, 47.724082],
       "usda_category": {
@@ -30,7 +30,10 @@
       "status": "open",
       "is_potential_site": false,
       "closed_date": null,
-      "notes": "Full-line supermarket with in-store pharmacy"
+      "pharmacy_hours_category": "full_hours",
+      "pharmacy_hours": "M-F 9am-1pm, 1:30-8pm; Sat 9am-1pm, 1:30-6pm; Sun 11am-1pm, 1:30-6pm",
+      "hours": "Daily 6am-11pm",
+      "notes": "Full-line supermarket with in-store pharmacy - extended daily and weekend hours"
     },
     {
       "id": "LC003",
@@ -46,7 +49,10 @@
       "status": "open",
       "is_potential_site": false,
       "closed_date": null,
-      "notes": "Full-line supermarket with in-store pharmacy"
+      "pharmacy_hours_category": "full_hours",
+      "pharmacy_hours": "M-F 9am-1pm, 1:30-8pm; Sat 9am-1pm, 1:30-6pm; Sun 11am-1pm, 1:30-6pm",
+      "hours": "Daily 6am-11pm",
+      "notes": "Full-line supermarket with in-store pharmacy - extended daily and weekend hours"
     },
     {
       "id": "LC004",
@@ -62,7 +68,10 @@
       "status": "open",
       "is_potential_site": false,
       "closed_date": null,
-      "notes": "Full-line supermarket with in-store pharmacy (approx coords)"
+      "pharmacy_hours_category": "full_hours",
+      "pharmacy_hours": "M-F 9am-1:30pm, 2-8pm; Sat-Sun 10am-1:30pm, 2-6pm",
+      "hours": "Daily 6am-11pm",
+      "notes": "Full-line supermarket with in-store pharmacy - extended daily and weekend hours (approx coords)"
     },
     {
       "id": "LC005",
@@ -78,13 +87,16 @@
       "status": "open",
       "is_potential_site": false,
       "closed_date": null,
-      "notes": "Pharmacy with prescription services (approx coords)"
+      "pharmacy_hours_category": "full_hours",
+      "pharmacy_hours": "M-F 9am-1:30pm, 2-9pm; Sat-Sun 10am-1:30pm, 2-6pm",
+      "hours": "Daily 8am-10pm",
+      "notes": "Pharmacy with prescription services - extended daily and weekend hours (approx coords)"
     },
     {
       "id": "LC006",
       "name": "Sprouts Farmers Market (Aurora)",
       "address": "13010 Aurora Ave N, Seattle, WA 98133",
-      "coordinates": [-122.33980785594574, 47.724551251128496],
+      "coordinates": [-122.3429672, 47.7235428],
       "usda_category": {
         "code": "LG",
         "name": "Large Grocery",
@@ -100,7 +112,7 @@
       "id": "LC007",
       "name": "Saar's Oak Tree Super Saver Foods",
       "address": "10008 Aurora Ave N, Seattle, WA 98133",
-      "coordinates": [-122.33655095197682, 47.703455112319304],
+      "coordinates": [-122.342652, 47.702578],
       "usda_category": {
         "code": "LG",
         "name": "Large Grocery",
@@ -274,7 +286,7 @@
     },
     {
       "id": "LC018",
-      "name": "Bartell Drugs (Lake City)",
+      "name": "Bartell Drugs (Full Service Pharmacies)",
       "address": "3018 NE 125th St, Seattle, WA 98125",
       "coordinates": [-122.2956250619695, 47.71968596554774],
       "usda_category": {
@@ -290,7 +302,7 @@
     },
     {
       "id": "LC019",
-      "name": "Walgreens (Lake City Way)",
+      "name": "Walgreens (Full Service Pharmacies)",
       "address": "14352 Lake City Way NE, Seattle, WA 98125",
       "coordinates": [-122.29194719450025, 47.73363925901361],
       "usda_category": {
@@ -317,7 +329,61 @@
       "has_pharmacy": true,
       "status": "open",
       "is_potential_site": false,
-      "notes": "Large grocery store with pharmacy services"
+      "pharmacy_hours_category": "full_hours",
+      "pharmacy_hours": "M-F 9am-1:30pm, 2-8pm; Sat-Sun 9am-1:30pm, 2-6pm",
+      "hours": "Daily 8am-9pm",
+      "notes": "Large grocery store with pharmacy services - extended daily and weekend hours"
+    },
+    {
+      "id": "LC021",
+      "name": "Seattle Indian Health Board - Lake City Clinic",
+      "address": "12736 33rd Ave NE, Seattle, WA 98125",
+      "coordinates": [-122.2919986, 47.722238],
+      "usda_category": {
+        "code": "PH",
+        "name": "Pharmacy",
+        "source": "Community Health Center"
+      },
+      "has_pharmacy": true,
+      "status": "open",
+      "is_potential_site": false,
+      "pharmacy_hours_category": "limited_hours",
+      "pharmacy_hours": "M-F 8am-5pm",
+      "hours": "M-F 8am - 5pm",
+      "notes": "Community health center with limited pharmacy hours - weekdays only"
+    },
+    {
+      "id": "LC022",
+      "name": "Genoa Healthcare",
+      "address": "11000 Lake City Way NE, Seattle, WA 98125",
+      "coordinates": [-122.3009303355822, 47.70883096631093],
+      "usda_category": {
+        "code": "PH",
+        "name": "Pharmacy",
+        "source": "Community Health Center"
+      },
+      "has_pharmacy": true,
+      "status": "open",
+      "is_potential_site": false,
+      "pharmacy_hours_category": "limited_hours",
+      "pharmacy_hours": "M-F 8:30am-12pm, 1pm-5pm",
+      "hours": "8:30am-12pm, 1pm-5pm M-F",
+      "notes": "Community health center pharmacy with limited hours - weekdays only"
+    },
+    {
+      "id": "LC023",
+      "name": "Lake City Farmers Market",
+      "address": "12501 28th Ave NE, Seattle, WA 98125",
+      "coordinates": [-122.29800162148858, 47.720159835592455],
+      "usda_category": {
+        "code": "FM",
+        "name": "Farmers Market",
+        "source": "Community Market"
+      },
+      "has_pharmacy": false,
+      "status": "open",
+      "is_potential_site": false,
+      "notes": "Seasonal farmers market providing fresh produce and local goods"
     }
   ]
 }

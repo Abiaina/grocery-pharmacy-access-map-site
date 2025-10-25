@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "id": "LC001",
-        "name": "Fred Meyer (Lake City)",
+        "name": "Fred Meyer (Supermarket - Full Service Pharmacies)",
         "address": "13000 Lake City Way NE, Seattle, WA 98125",
         "coordinates": [-122.291963, 47.724082]
       },
@@ -72,11 +72,11 @@
         "id": "LC006",
         "name": "Sprouts Farmers Market (Aurora)",
         "address": "13010 Aurora Ave N, Seattle, WA 98133",
-        "coordinates": [-122.33980785594574, 47.724551251128496]
+        "coordinates": [-122.3429672, 47.7235428]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.33980785594574, 47.724551251128496]
+        "coordinates": [-122.3429672, 47.7235428]
       }
     },
     {
@@ -85,11 +85,11 @@
         "id": "LC007",
         "name": "Saar's Oak Tree Super Saver Foods",
         "address": "10008 Aurora Ave N, Seattle, WA 98133",
-        "coordinates": [-122.33655095197682, 47.703455112319304]
+        "coordinates": [-122.342652, 47.702578]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.33655095197682, 47.703455112319304]
+        "coordinates": [-122.342652, 47.702578]
       }
     },
     {
@@ -226,7 +226,7 @@
       "type": "Feature",
       "properties": {
         "id": "LC018",
-        "name": "Bartell Drugs (Lake City)",
+        "name": "Bartell Drugs (Full Service Pharmacies)",
         "address": "3018 NE 125th St, Seattle, WA 98125",
         "coordinates": [-122.2956250619695, 47.71968596554774]
       },
@@ -239,7 +239,7 @@
       "type": "Feature",
       "properties": {
         "id": "LC019",
-        "name": "Walgreens (Lake City Way)",
+        "name": "Walgreens (Full Service Pharmacies)",
         "address": "14352 Lake City Way NE, Seattle, WA 98125",
         "coordinates": [-122.29194719450025, 47.73363925901361]
       },
@@ -259,6 +259,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-122.32497614494788, 47.70890478849319]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LC021",
+        "name": "Seattle Indian Health Board - Lake City Clinic",
+        "address": "12736 33rd Ave NE, Seattle, WA 98125",
+        "coordinates": [-122.2919986, 47.722238]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.2919986, 47.722238]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LC022",
+        "name": "Genoa Healthcare",
+        "address": "11000 Lake City Way NE, Seattle, WA 98125",
+        "coordinates": [-122.3009303355822, 47.70883096631093]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.3009303355822, 47.70883096631093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LC023",
+        "name": "Lake City Farmers Market",
+        "address": "12501 28th Ave NE, Seattle, WA 98125",
+        "coordinates": [-122.29800162148858, 47.720159835592455]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.29800162148858, 47.720159835592455]
       }
     }
   ]
