@@ -56,9 +56,9 @@
     },
     {
       "id": "LC004",
-      "name": "Safeway (15th Ave NE)",
-      "address": "12318 15th Ave NE, Seattle, WA 98125",
-      "coordinates": [-122.313, 47.719],
+      "name": "Safeway (Roosevelt Way NE)",
+      "address": "7300 Roosevelt Way NE, Seattle, WA 98115",
+      "coordinates": [-122.31700180541914, 47.682235475734664],
       "usda_category": {
         "code": "SM",
         "name": "Supermarket",
@@ -71,7 +71,7 @@
       "pharmacy_hours_category": "full_hours",
       "pharmacy_hours": "M-F 9am-1:30pm, 2-8pm; Sat-Sun 10am-1:30pm, 2-6pm",
       "hours": "Daily 6am-11pm",
-      "notes": "Full-line supermarket with in-store pharmacy - extended daily and weekend hours (approx coords)"
+      "notes": "Full-line supermarket with in-store pharmacy - extended daily and weekend hours"
     },
     {
       "id": "LC005",
@@ -384,6 +384,23 @@
       "status": "open",
       "is_potential_site": false,
       "notes": "Seasonal farmers market providing fresh produce and local goods"
+    },
+    {
+      "id": "LC024",
+      "name": "Whole Foods Market",
+      "address": "1026 NE 64th St, Seattle, WA 98115",
+      "coordinates": [-122.31587527768852, 47.67524665751115],
+      "usda_category": {
+        "code": "LG",
+        "name": "Large Grocery",
+        "source": "USDA SNAP Retailer Store Type Definitions (2025)"
+      },
+      "has_pharmacy": false,
+      "status": "open",
+      "is_potential_site": false,
+      "closed_date": null,
+      "hours": "Daily 7am-10pm",
+      "notes": "Natural and organic foods supermarket with extensive fresh produce selection"
     }
   ]
 }

@@ -44,13 +44,13 @@
       "type": "Feature",
       "properties": {
         "id": "LC004",
-        "name": "Safeway (15th Ave NE)",
-        "address": "12318 15th Ave NE, Seattle, WA 98125",
-        "coordinates": [-122.313, 47.719]
+        "name": "Safeway (Roosevelt Way NE)",
+        "address": "7300 Roosevelt Way NE, Seattle, WA 98115",
+        "coordinates": [-122.31700180541914, 47.682235475734664]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.313, 47.719]
+        "coordinates": [-122.31700180541914, 47.682235475734664]
       }
     },
     {
@@ -298,6 +298,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-122.29800162148858, 47.720159835592455]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LC024",
+        "name": "Whole Foods Market",
+        "address": "1026 NE 64th St, Seattle, WA 98115",
+        "coordinates": [-122.31587527768852, 47.67524665751115]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.31587527768852, 47.67524665751115]
       }
     }
   ]
