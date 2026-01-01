@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: grocerypharmacyaccess.org
+Sitemap: https://grocerypharmacyaccess.org/sitemap.xml
