@@ -312,6 +312,19 @@
         "type": "Point",
         "coordinates": [-122.31587527768852, 47.67524665751115]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LC025",
+        "name": "Safeway (15th Ave NE)",
+        "address": "12318 15th Ave NE, Seattle, WA 98125",
+        "coordinates": [-122.31202376102972, 47.71809498138694]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.31202376102972, 47.71809498138694]
+      }
     }
   ]
 }
