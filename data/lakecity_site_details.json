@@ -401,6 +401,24 @@
       "closed_date": null,
       "hours": "Daily 7am-10pm",
       "notes": "Natural and organic foods supermarket with extensive fresh produce selection"
+    },
+    {
+      "id": "LC025",
+      "name": "Safeway (15th Ave NE)",
+      "address": "12318 15th Ave NE, Seattle, WA 98125",
+      "coordinates": [-122.31202376102972, 47.71809498138694],
+      "usda_category": {
+        "code": "SM",
+        "name": "Supermarket",
+        "source": "USDA SNAP Retailer Store Type Definitions (2025)"
+      },
+      "has_pharmacy": true,
+      "status": "open",
+      "is_potential_site": false,
+      "closed_date": null,
+      "pharmacy_hours_category": "full_hours",
+      "pharmacy_hours": "M-F 9am-1:30pm, 2-9pm; Sat-Sun 10am-1:30pm, 2-6pm",
+      "notes": "Full-line supermarket with in-store pharmacy - extended daily and weekend hours"
     }
   ]
 }
