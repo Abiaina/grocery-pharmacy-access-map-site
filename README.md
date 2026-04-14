@@ -69,7 +69,7 @@ The site advocates for two core demands:
 
 ## Deployment
 
-This repository is the static deployment target for the site. Changes to the source application are automatically built and deployed here via GitHub Actions.
+The source code is maintained in a private repository and deployed here via GitHub Actions.
 
 Site is live at [https://grocerypharmacyaccess.org](https://grocerypharmacyaccess.org)
 
